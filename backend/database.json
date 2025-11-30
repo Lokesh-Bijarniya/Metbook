@@ -1,0 +1,33 @@
+{
+  "submissions": [
+    {
+      "id": "6c856837-2a2f-4201-8120-70ed497ee235",
+      "fullName": "John Doe",
+      "email": "john@example.com",
+      "age": 30,
+      "department": "engineering",
+      "skills": [
+        "react",
+        "node"
+      ],
+      "startDate": "2023-11-01",
+      "bio": "Software Engineer",
+      "remote": true,
+      "createdAt": "2025-11-29T07:07:04.069Z"
+    },
+    {
+      "id": "28457f2b-5ae5-40a1-9e8a-d67ceb39d628",
+      "fullName": "test",
+      "email": "ab@gmail.com",
+      "age": "21",
+      "department": "engineering",
+      "skills": [
+        "react"
+      ],
+      "startDate": "2003-01-01",
+      "bio": "ftgtg",
+      "remote": true,
+      "createdAt": "2025-11-29T07:40:13.234Z"
+    }
+  ]
+}
